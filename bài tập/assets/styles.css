@@ -1,0 +1,40 @@
+h1{
+    font-size: 40px;
+    color: #121212;
+    line-height: 130%;
+    font-weight: 700;
+    display: block;
+}
+h2{
+    font-size: 24px;
+    color: #121212;
+    
+}
+h3{
+     font-size: 24px;
+    color: #121212;
+   
+}
+
+h4{
+     font-size: 24px;
+    color: #121212;
+    
+}
+h5{
+     font-size: 24px;
+    color: #121212;
+    
+}
+
+.chinhsachaquara p{
+     font-size: 20px;
+    color: #595959;
+}
+.highlight {
+  color: #5765F2;
+}
+.chinhsach p{
+    font-size: 24px;
+
+}
